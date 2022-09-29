@@ -1,5 +1,5 @@
 # PolyDraw
-<img src="https://github.com/Ihssene-Brahimi/SaveIT/blob/master/SaveIT%20logo%20white%20-03.png" alt="dziribert drawing" width="18%" height="18%" align="right"/>
+<img src="https://github.com/Ihssene-Brahimi/PolyDraw/blob/main/tuto_epic/logo.png" alt="dziribert drawing" width="18%" height="18%" align="right"/>
 
 PolyDraw is a polygon editor, essential for efficiently creating simple and complex objects and illustrations. It is distinguished by its simplicity of use and is intended for everyone, including children, adults and professionals.
 It has functions that are not obvious but can be quite useful.
